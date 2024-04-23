@@ -34,4 +34,5 @@ Features of AI - Virtual HR Manager:
 ![new](https://github.com/parththakkar1818/hackNuthon/assets/121672669/6eaea44f-f545-4280-b956-8e48e876adcd)
 ![Screenshot (187)](https://github.com/parththakkar1818/hackNuthon/assets/121672669/682d32c7-7f26-4d13-b9a4-2d11ae74d8a2)
 
+## you can watch our project demo on [Youtube](https://www.youtube.com/watch?v=FH4ByYIMbsc)
 
